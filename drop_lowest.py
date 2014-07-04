@@ -1,3 +1,6 @@
+#author: Paul Dolan
+#date: July 2014
+
 import pymongo
 import sys
 
